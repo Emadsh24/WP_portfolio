@@ -1,0 +1,678 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: beuh plugin\n"
+"POT-Creation-Date: 2015-08-25 20:41+0700\n"
+"PO-Revision-Date: 2015-08-25 20:41+0700\n"
+"Last-Translator: \n"
+"Language-Team: ridianur\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/contact.php:8
+msgid "Contact Posts"
+msgstr ""
+
+#: inc/contact.php:9
+msgid "Contact Post"
+msgstr ""
+
+#: inc/contact.php:10 inc/contact.php:11 inc/contact.php:13
+msgid "Add New Contact Post"
+msgstr ""
+
+#: inc/contact.php:12
+msgid "Edit Contact Post"
+msgstr ""
+
+#: inc/contact.php:14
+msgid "View Contact Post"
+msgstr ""
+
+#: inc/contact.php:15
+msgid "Search Contact Posts"
+msgstr ""
+
+#: inc/contact.php:16
+msgid "No Contact Post found"
+msgstr ""
+
+#: inc/contact.php:17
+msgid "No Contact Post found in trash"
+msgstr ""
+
+#: inc/custom-section.php:8 inc/custom-section.php:9
+msgid "Custom Section"
+msgstr ""
+
+#: inc/custom-section.php:10 inc/custom-section.php:11
+#: inc/custom-section.php:13
+msgid "Add New Custom Section"
+msgstr ""
+
+#: inc/custom-section.php:12
+msgid "Edit Custom Section"
+msgstr ""
+
+#: inc/custom-section.php:14
+msgid "View Custom Section"
+msgstr ""
+
+#: inc/custom-section.php:15
+msgid "Search Custom Section"
+msgstr ""
+
+#: inc/custom-section.php:16
+msgid "No Custom Section found"
+msgstr ""
+
+#: inc/custom-section.php:17
+msgid "No Custom Section found in trash"
+msgstr ""
+
+#: inc/customsection-metaboxes.php:14
+msgid "Post Setting"
+msgstr ""
+
+#: inc/customsection-metaboxes.php:22
+msgid "Choose Custom Section Format Here"
+msgstr ""
+
+#: inc/customsection-metaboxes.php:29
+msgid "White Background Section"
+msgstr ""
+
+#: inc/customsection-metaboxes.php:33
+msgid "Gray Background Section"
+msgstr ""
+
+#: inc/customsection-metaboxes.php:37
+msgid "Parallax Section"
+msgstr ""
+
+#: inc/customsection-metaboxes.php:42
+msgid "Parallax Detail"
+msgstr ""
+
+#: inc/customsection-metaboxes.php:45
+msgid ""
+"<b>Title of post</b> will be parallax <b>subtitle</b>.<br/> <b>Post content</"
+"b> will be parallax <b>text</b>.<br/><b>Featured Image</b> will be parallax "
+"<b>background image</b>."
+msgstr ""
+
+#: inc/customsection-metaboxes.php:49
+msgid "Section Icon"
+msgstr ""
+
+#: inc/customsection-metaboxes.php:52
+msgid ""
+"Input your section icon here. <br/> You can check <a href=\"http://"
+"fontawesome.io/icons/\" target=\"_blank\">Here</a> for icon list. eg. fa-"
+"quote-left"
+msgstr ""
+
+#: inc/customsection-metaboxes.php:56
+msgid "Section Subtitle"
+msgstr ""
+
+#: inc/customsection-metaboxes.php:60
+msgid "Insert section subtitle text here."
+msgstr ""
+
+#: inc/google-map.php:38
+msgid "1. Google Map Latitude and Longitude"
+msgstr ""
+
+#: inc/google-map.php:43
+msgid "2. Google Map Zoom Value"
+msgstr ""
+
+#: inc/google-map.php:48
+msgid "3. Google Map Lightness Value"
+msgstr ""
+
+#: inc/google-map.php:53
+msgid "4. Google Map Saturation Value"
+msgstr ""
+
+#: inc/google-map.php:57
+msgid "5. Google Map Marker Icon"
+msgstr ""
+
+#: inc/google-map.php:62
+msgid "Enter a URL or upload an image (recommended size 37x37px)"
+msgstr ""
+
+#: inc/google-map.php:68
+msgid "6. Image on Google Map Marker Content"
+msgstr ""
+
+#: inc/google-map.php:73
+msgid "Enter a URL or upload an image (recommended max width 400px)"
+msgstr ""
+
+#: inc/google-map.php:79
+msgid "7. Google Map Marker Content"
+msgstr ""
+
+#: inc/google-map.php:91
+msgid "Explanation:"
+msgstr ""
+
+#: inc/google-map.php:93
+msgid ""
+"You can check your latitude and longitude in <a href=\"http://universimmedia."
+"pagesperso-orange.fr/geo/loc.htm\">here</a>. example value: "
+"-6.94010,107.62575 "
+msgstr ""
+
+#: inc/google-map.php:94
+msgid "Input your zoom level in here. example value: 15"
+msgstr ""
+
+#: inc/google-map.php:95
+msgid "Input your value for map lightness here. example value: 7"
+msgstr ""
+
+#: inc/google-map.php:96
+msgid ""
+"Input your value for map saturation here. example value :0 (for making "
+"normal map), default map is -100 (monochrome))."
+msgstr ""
+
+#: inc/google-map.php:97
+msgid "You can upload your icon image there."
+msgstr ""
+
+#: inc/google-map.php:98
+msgid "You can upload your image for marker content there."
+msgstr ""
+
+#: inc/google-map.php:99
+msgid ""
+"The content will be appear if the marker is clicked. You can use HTML tag "
+"there."
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:14
+msgid "Portfolio Setting"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:22
+msgid "Portfolio Format Setting"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:27
+msgid "Choose Portfolio Format Here"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:34
+msgid "Portfolio Standard"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:38
+msgid "Portfolio Gallery"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:42
+msgid "Portfolio Slider"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:46
+msgid "Portfolio Video"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:50
+msgid "Portfolio Audio"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:56
+msgid "Big Image Setting"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:59
+msgid ""
+"Upload your image here. Leave it blank if you want to used featured image."
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:63
+msgid "Gallery Setting"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:66
+msgid ""
+"Create your portfolio gallery here. <br/>Try to use same ratio for each "
+"image."
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:70
+msgid "Slider Setting"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:73
+msgid "Create your portfolio Slider here."
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:77
+msgid "Video Setting"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:80
+msgid ""
+"Insert the link for video embed here.<br/> For video from youtube/vimeo just "
+"put the link without any attribute like ?wmode=opaque.<br/>eg: http://www."
+"youtube.com/embed/nAuo7KEQHT4 or http://player.vimeo.com/video/64078587"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:84
+msgid "Audio Setting"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:88
+msgid ""
+"Insert your iframe/embedded code for audio here.<br/>\n"
+"\t\tYou can input iframe/embed code from youtube/vimeo here too, if you "
+"don't like the default style of portfolio video."
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:93
+msgid "Portfolio Icon"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:96
+msgid ""
+"Input portfolio icon here.  You can check <a href=\"http://fontawesome.io/"
+"icons/\" target=\"_blank\">Here</a> for icon list. <br/>eg. fa-paw"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:99
+msgid "Portfolio Detail Setting"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:104
+msgid "Portfolio Client"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:107
+msgid "Insert your portfolio client here."
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:110
+msgid "Portfolio Date"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:113
+msgid "Insert your portfolio date here."
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:116
+msgid "Portfolio Button Link"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:119
+msgid "Insert your button link here. Leave it blank if you dont want it."
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:122
+msgid "Portfolio Button Text"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:125
+msgid "Insert your button text here. Leave it blank if you dont want it."
+msgstr ""
+
+#: inc/portfolio.php:8 inc/portfolio.php:9
+msgid "Portfolio"
+msgstr ""
+
+#: inc/portfolio.php:10 inc/portfolio.php:11 inc/portfolio.php:13
+msgid "Add New Portfolio"
+msgstr ""
+
+#: inc/portfolio.php:12
+msgid "Edit Portfolio"
+msgstr ""
+
+#: inc/portfolio.php:14
+msgid "View Portfolio"
+msgstr ""
+
+#: inc/portfolio.php:15
+msgid "Search Portfolio"
+msgstr ""
+
+#: inc/portfolio.php:16
+msgid "No Portfolio found"
+msgstr ""
+
+#: inc/portfolio.php:17
+msgid "No Portfolio found in trash"
+msgstr ""
+
+#: inc/portfolio.php:37
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: inc/portfolio.php:38
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: inc/portfolio.php:39
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: inc/portfolio.php:40
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: inc/portfolio.php:41
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: inc/portfolio.php:42
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: inc/portfolio.php:43
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: inc/portfolio.php:44
+msgid "New Portfolio Category"
+msgstr ""
+
+#: inc/portfolio.php:45
+msgid "Portfolio Categories"
+msgstr ""
+
+#: inc/pricing-table-metaboxes.php:14
+msgid "Pricing Table Setting"
+msgstr ""
+
+#: inc/pricing-table-metaboxes.php:22
+msgid "Pricing Table Icon"
+msgstr ""
+
+#: inc/pricing-table-metaboxes.php:25
+msgid ""
+"Input your Pricing Table icon here. <br/> You can check <a href=\"http://"
+"fontawesome.io/icons/\" target=\"_blank\">Here</a> for icon list. eg. fa-bug"
+msgstr ""
+
+#: inc/pricing-table-metaboxes.php:28
+msgid "Pricing Table Title/Price"
+msgstr ""
+
+#: inc/pricing-table-metaboxes.php:31
+msgid "Input pricing table price here. eg. $50"
+msgstr ""
+
+#: inc/pricing-table-metaboxes.php:34
+msgid "Pricing Table Small Title"
+msgstr ""
+
+#: inc/pricing-table-metaboxes.php:37
+msgid "Input pricing table small title here(below the price). eg. per month"
+msgstr ""
+
+#: inc/pricing-table-metaboxes.php:40
+msgid "Pricing Table Button Text"
+msgstr ""
+
+#: inc/pricing-table-metaboxes.php:43
+msgid "Input pricing table button text here."
+msgstr ""
+
+#: inc/pricing-table-metaboxes.php:46
+msgid "Pricing Table Button Link"
+msgstr ""
+
+#: inc/pricing-table-metaboxes.php:49
+msgid "Input pricing table button link here."
+msgstr ""
+
+#: inc/pricing-table.php:8 inc/pricing-table.php:9
+msgid "Pricing Table"
+msgstr ""
+
+#: inc/pricing-table.php:10 inc/pricing-table.php:11 inc/pricing-table.php:13
+msgid "Add New Pricing Table"
+msgstr ""
+
+#: inc/pricing-table.php:12
+msgid "Edit Pricing Table"
+msgstr ""
+
+#: inc/pricing-table.php:14
+msgid "View Pricing Table"
+msgstr ""
+
+#: inc/pricing-table.php:15
+msgid "Search Pricing Table"
+msgstr ""
+
+#: inc/pricing-table.php:16
+msgid "No Pricing Table found"
+msgstr ""
+
+#: inc/pricing-table.php:17
+msgid "No Pricing Table found in trash"
+msgstr ""
+
+#: inc/services-metaboxes.php:14
+msgid "Services Setting"
+msgstr ""
+
+#: inc/services-metaboxes.php:21
+msgid "Services Icon"
+msgstr ""
+
+#: inc/services-metaboxes.php:24
+msgid ""
+"Input services icon here.  You can check <a href=\"http://fontawesome.io/"
+"icons/\" target=\"_blank\">Here</a> for icon list. <br/>eg. fa-paw"
+msgstr ""
+
+#: inc/services.php:8
+msgid "Services Posts"
+msgstr ""
+
+#: inc/services.php:9
+msgid "Services Post"
+msgstr ""
+
+#: inc/services.php:10 inc/services.php:11 inc/services.php:13
+msgid "Add New Services Post"
+msgstr ""
+
+#: inc/services.php:12
+msgid "Edit Services Post"
+msgstr ""
+
+#: inc/services.php:14
+msgid "View Services Post"
+msgstr ""
+
+#: inc/services.php:15
+msgid "Search Services Posts"
+msgstr ""
+
+#: inc/services.php:16
+msgid "No Services Post found"
+msgstr ""
+
+#: inc/services.php:17
+msgid "No Services Post found in trash"
+msgstr ""
+
+#: inc/team-metaboxes.php:14
+msgid "Team Post Setting"
+msgstr ""
+
+#: inc/team-metaboxes.php:21
+msgid "Team Detail"
+msgstr ""
+
+#: inc/team-metaboxes.php:27
+msgid "Recommended size for team/featured image is 1200x800px"
+msgstr ""
+
+#: inc/team-metaboxes.php:28
+msgid ""
+"You can leave the post content blank. The post content only appear on single "
+"post."
+msgstr ""
+
+#: inc/team-metaboxes.php:33
+msgid "Team Thumbnail Image"
+msgstr ""
+
+#: inc/team-metaboxes.php:36
+msgid ""
+"Upload your thumbnail image here. Recommended size for thumbnail image is "
+"600x600px"
+msgstr ""
+
+#: inc/team-metaboxes.php:39
+msgid "Team Icon"
+msgstr ""
+
+#: inc/team-metaboxes.php:42
+msgid ""
+"Input your team icon here. <br/> You can check <a href=\"http://fontawesome."
+"io/icons/\" target=\"_blank\">Here</a> for icon list. eg. fa-github."
+msgstr ""
+
+#: inc/team-metaboxes.php:45
+msgid "Team Position"
+msgstr ""
+
+#: inc/team-metaboxes.php:48
+msgid "Input team position here."
+msgstr ""
+
+#: inc/team-metaboxes.php:51
+msgid "Team Social Icon"
+msgstr ""
+
+#: inc/team-metaboxes.php:56
+msgid "Facebook link"
+msgstr ""
+
+#: inc/team-metaboxes.php:59
+msgid "Input link for Facebook"
+msgstr ""
+
+#: inc/team-metaboxes.php:62
+msgid "Twitter link"
+msgstr ""
+
+#: inc/team-metaboxes.php:65
+msgid "Input link for Twitter"
+msgstr ""
+
+#: inc/team-metaboxes.php:68
+msgid "Pinterest link"
+msgstr ""
+
+#: inc/team-metaboxes.php:71
+msgid "Input link for Pintereset"
+msgstr ""
+
+#: inc/team-metaboxes.php:74
+msgid "Google Plus link"
+msgstr ""
+
+#: inc/team-metaboxes.php:77
+msgid "Input link for Google Plus"
+msgstr ""
+
+#: inc/team-metaboxes.php:80
+msgid "Instagram link"
+msgstr ""
+
+#: inc/team-metaboxes.php:83
+msgid "Input link for Instagram"
+msgstr ""
+
+#: inc/team-metaboxes.php:86
+msgid "Xing link"
+msgstr ""
+
+#: inc/team-metaboxes.php:89
+msgid "Input link for Xing"
+msgstr ""
+
+#: inc/team-metaboxes.php:92
+msgid "Another Social icon list"
+msgstr ""
+
+#: inc/team-metaboxes.php:95
+msgid "Create another social icon list here."
+msgstr ""
+
+#: inc/team-metaboxes.php:99
+msgid "Social Icon"
+msgstr ""
+
+#: inc/team-metaboxes.php:100
+msgid ""
+"Input your social icon here. <br/> You can check <a href=\"http://"
+"fontawesome.io/icons/\" target=\"_blank\">Here</a> for icon list. eg. fa-"
+"github"
+msgstr ""
+
+#: inc/team-metaboxes.php:105
+msgid "Social Icon Link"
+msgstr ""
+
+#: inc/team-metaboxes.php:106
+msgid "Input your social icon link here."
+msgstr ""
+
+#: inc/team-metaboxes.php:112
+msgid "Email link"
+msgstr ""
+
+#: inc/team-metaboxes.php:115
+msgid "Input email here(email address only,without mailto:)"
+msgstr ""
+
+#: inc/team.php:8
+msgid "Team Posts"
+msgstr ""
+
+#: inc/team.php:9
+msgid "Team Post"
+msgstr ""
+
+#: inc/team.php:10 inc/team.php:11 inc/team.php:13
+msgid "Add New Team Post"
+msgstr ""
+
+#: inc/team.php:12
+msgid "Edit Team Post"
+msgstr ""
+
+#: inc/team.php:14
+msgid "View Team Post"
+msgstr ""
+
+#: inc/team.php:15
+msgid "Search Team Posts"
+msgstr ""
+
+#: inc/team.php:16
+msgid "No Team Post found"
+msgstr ""
+
+#: inc/team.php:17
+msgid "No Team Post found in trash"
+msgstr ""
